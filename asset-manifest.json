@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/eldtassens/static/css/main.67787248.css",
-    "main.js": "/eldtassens/static/js/main.5b269beb.js",
-    "static/js/787.f8f3e844.chunk.js": "/eldtassens/static/js/787.f8f3e844.chunk.js",
-    "static/media/eldtassensdark.png": "/eldtassens/static/media/eldtassensdark.f75a28ed8dd138776d2d.png",
-    "index.html": "/eldtassens/index.html",
-    "main.67787248.css.map": "/eldtassens/static/css/main.67787248.css.map",
-    "main.5b269beb.js.map": "/eldtassens/static/js/main.5b269beb.js.map",
-    "787.f8f3e844.chunk.js.map": "/eldtassens/static/js/787.f8f3e844.chunk.js.map"
+    "main.css": "/static/css/main.e54c5cad.css",
+    "main.js": "/static/js/main.c7084672.js",
+    "static/js/787.f8f3e844.chunk.js": "/static/js/787.f8f3e844.chunk.js",
+    "static/media/eldtassensdark.png": "/static/media/eldtassensdark.f75a28ed8dd138776d2d.png",
+    "index.html": "/index.html",
+    "main.e54c5cad.css.map": "/static/css/main.e54c5cad.css.map",
+    "main.c7084672.js.map": "/static/js/main.c7084672.js.map",
+    "787.f8f3e844.chunk.js.map": "/static/js/787.f8f3e844.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.67787248.css",
-    "static/js/main.5b269beb.js"
+    "static/css/main.e54c5cad.css",
+    "static/js/main.c7084672.js"
   ]
 }
