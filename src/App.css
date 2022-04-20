@@ -1,6 +1,8 @@
 .App {
-  background-image: url("/src/assets/eldtassensdark.png");
-  background-size: "cover";
-  height: 100vh;
-  background-repeat:no-repeat; 
+  background: url(assets/eldtassensdark.png) no-repeat center center fixed;
+  -webkit-background-size: contain;
+  -moz-background-size: contain;
+  -o-background-size: contain;
+  background-size: contain;
+  height: 100%;
 }
