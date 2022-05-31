@@ -61,3 +61,28 @@
   left: 145px;
 }
 }
+
+@media screen and (max-width: 1024px) {
+
+  #first, #menu-text {
+    display: none;
+  }
+
+  .PerspectiveLine {
+    width: 1em;
+  }
+
+  .PerspectiveText {
+    width: 1em;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+  }
+
+  .LinkCard {
+    height: 100vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+  }
+}
