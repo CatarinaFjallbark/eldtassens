@@ -80,7 +80,8 @@
   }
 
   .LinkCard {
-    height: 100vh;
+    height: calc(100vh - 1em);
+    width: 100vw;
     display: flex;
     justify-content: space-around;
     align-items: flex-end;
