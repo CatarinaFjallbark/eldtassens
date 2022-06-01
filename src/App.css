@@ -1,11 +1,14 @@
 .App {
-  background: url(assets/eldtassensdark.png) no-repeat center center fixed;
+  height: 100%;
+  display: grid;
+  grid-template-rows: 80% 20%;
+}
+
+.Content {
+  background: url(assets/eldtassensdark.png) no-repeat center center;
   -webkit-background-size: contain;
   -moz-background-size: contain;
   -o-background-size: contain;
   background-size: contain;
   height: 100%;
-}
-
-.Menu {
 }

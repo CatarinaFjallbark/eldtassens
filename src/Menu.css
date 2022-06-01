@@ -1,89 +1,39 @@
-.LinkCard {
-  color: var(--primary);
-  font-family: Arial;
-  font-size: 3rem;
-  font-weight: 900;
-  letter-spacing: -2px;
-  text-transform: uppercase;
-  transform: translateY(-25px);
+.Footer {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 1.5rem;
+  font-weight: 400;
+  width: 100vw;
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-end;
+  margin-bottom: 1em;
 }
 
-.LinkCard a {
+.Footer a {
   color: var(--primary);
   text-decoration: none;
+  display: flex;
+  align-items: center;
 }
 
-.PerspectiveLine {
-  height: 3rem;
-  overflow: hidden;
-  position: relative;
+.Footer a:hover {
+  text-decoration: underline;
 }
 
-.PerspectiveText {
-  margin: 0 0 0 10px;
-  height: 3rem;
-  line-height: 3rem;
-  transition: all 0.5s ease-in-out;
-}
-
-@media screen and (min-width: 1024px) {
-
-.PerspectiveText {
+.FooterLink {
   margin: 0;
+  display: flex;
+  justify-content: center;
 }
 
-.PerspectiveLine:nth-child(odd) {
-  transform: skew(60deg, -30deg) scaleY(0.667);
-}
-.PerspectiveLine:nth-child(even) {
-  transform: skew(0deg, -30deg) scaleY(1.333);
+#footer-text {
+  margin-left: 10px;
 }
 
-.PerspectiveLine {
-  position: relative;
-}
-.LinkCard:hover p{
-  transform: translate(0, -5px);
-}
-.PerspectiveLine:nth-child(1) {
-  left: 29px;
-}
-.PerspectiveLine:nth-child(2) {
-  left: 58px;
-}
-.PerspectiveLine:nth-child(3) {
-  left: 87px;
-}
-.PerspectiveLine:nth-child(4) {
-  left: 116px;
-}
-.PerspectiveLine:nth-child(5) {
-  left: 145px;
-}
-}
+@media screen and (min-width: 1024px) {}
 
 @media screen and (max-width: 1024px) {
-
-  #first, #menu-text {
+  #footer-text {
     display: none;
-  }
-
-  .PerspectiveLine {
-    width: 1em;
-  }
-
-  .PerspectiveText {
-    width: 1em;
-    margin: 0;
-    display: flex;
-    justify-content: center;
-  }
-
-  .LinkCard {
-    height: calc(100vh - 1em);
-    width: 100vw;
-    display: flex;
-    justify-content: space-around;
-    align-items: flex-end;
   }
 }
