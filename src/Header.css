@@ -1,0 +1,23 @@
+.Header {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 1em;
+    margin-right: 1em;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+  }
+
+li {
+    margin-right: 1em;
+    text-decoration: none;
+    color: gray;
+}
+
+li a {
+    color: gray;
+    text-decoration: none;
+}
