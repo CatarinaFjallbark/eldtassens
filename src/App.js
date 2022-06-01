@@ -1,11 +1,11 @@
 import './App.css';
-import Menu from './Menu'
+import Footer from './Footer'
 
 function App() {
   return (
     <div className="App">
       <div className="Content"></div>
-      <Menu />
+      <Footer />
     </div>
   );
 }

@@ -1,8 +1,8 @@
 import React from 'react'
-import './Menu.css'
+import './Footer.css'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 
-const LinkCard = () =>
+const Footer = () =>
   <div className='Footer'>
     <div>
       <p className='FooterLink'>
@@ -38,4 +38,4 @@ const LinkCard = () =>
     </div>
   </div>
 
-export default LinkCard
+export default Footer;
