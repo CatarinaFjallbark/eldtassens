@@ -1,7 +1,7 @@
 .App {
   height: 100%;
   display: grid;
-  grid-template-rows: 10% 70% 20%;
+  grid-template-rows: 10% 80% 10%;
 }
 
 .Content {
@@ -11,4 +11,18 @@
   -o-background-size: contain;
   background-size: contain;
   height: 100%;
+}
+
+.Container {
+  margin: 1em 3em 1em 3em;
+  line-height: 25px;
+  overflow: scroll;
+}
+
+h1 {
+  color: orange;
+}
+
+p {
+  margin-bottom: 3em;
 }

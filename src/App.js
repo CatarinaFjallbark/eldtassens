@@ -2,6 +2,7 @@ import './App.css';
 import Footer from './Footer'
 import Header from './Header'
 import Fallback from './Fallback'
+import Presentation from './Pages/Presentation'
 import { 
   BrowserRouter as Router,
   Switch,
@@ -17,6 +18,9 @@ function App() {
           <Route exact path="/">
             <div className="Content"></div>
           </Route>
+          <Route path="/galleri">
+            <Fallback />
+          </Route>
           <Route path="/kullar">
             <Fallback />
           </Route>
@@ -24,7 +28,7 @@ function App() {
             <Fallback />
           </Route>
           <Route path="/presentation">
-            <Fallback />
+            <Presentation />
           </Route>
           <Route path="/hundar">
             <Fallback />
