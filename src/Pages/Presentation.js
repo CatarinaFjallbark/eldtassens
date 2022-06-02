@@ -19,6 +19,15 @@ Mina hundar är familjemedlemmar och denna kenneln kommer föda upp enstaka kull
 
 Jag och min sambo Johan bor i ett radhus precis utanför Malmö med i dagsläget tre hundar hemma.</p>
 
+<h1>FINSK LAPPHUND</h1>
+
+<p>Finsk Lapphund är en väldigt fin och härlig ras, men ingen lätt hund. Vill man bara ha en sällskapshund så finns det andra raser som passar bättre. Med det sagt så har många en tydlig “av och på”, soffhäng uppskattas liksom några mil i naturen. Rasen har blivit väldigt populär på senaste och därför är det viktigt att avel görs med stor hänsyn till att behålla en frisk ras och detta ansvar gäller även valpköpare som i sin tur måste ta sitt ansvar. Detta kan göras genom att rapportera eventuella sjukdomar till uppfödaren och helst se till så valpen i vuxen ålder exempelvis röntgas så att vi vet att aveln går åt rätt håll. Mer om hälsoprogram kan läsas <a href='https://www.skk.se/sv/uppfodning/halsa/halsoprogram/'> här</a>. 
+
+Det kan också vara bra att ta en koll på rasklubbens sida för <a href='https://finsklapphund.nu/rasen/rasstandard/'> rasstandard</a>. 
+
+Hundarna har en fantastisk päls som skyddar både mot värme och kyla. Hundarna behöver ej badas, det skadar mer än det hjälper. Ett bad kan såklart vara bra om hunden är väldigt smutsig eller om man ska få bort envist underull. Pälsen ska ej heller klippas utan den finns där av en anledning. </p>
+
+
 </div>
   
 export default Presentation;
