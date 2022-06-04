@@ -2,6 +2,7 @@ import './App.css';
 import Footer from './Footer'
 import Header from './Header'
 import Fallback from './Fallback'
+import Dogs from './Pages/Dogs'
 import Presentation from './Pages/Presentation'
 import { 
   BrowserRouter as Router,
@@ -31,7 +32,7 @@ function App() {
             <Presentation />
           </Route>
           <Route path="/hundar">
-            <Fallback />
+            <Dogs />
           </Route>
         </Switch>
         <Footer />
