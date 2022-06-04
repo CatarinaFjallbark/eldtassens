@@ -57,7 +57,7 @@ Mycket energi och vill alltid leka och busa, mycket snäll och gosig.</p>
 
 <h1>Hanar</h1>
 <hr />
-<h2>Tukki Karpo Albus (Marschall) <a href="">ej registrerad än</a></h2>
+<h2>Tukki Karpo Albus (Marschall)</h2>
 <p>Väldigt härlig kille. Bor hos sin fodervärd i Lund.</p>
 
 </div>
