@@ -5,7 +5,7 @@ import Fallback from './Fallback'
 import Dogs from './Pages/Dogs'
 import Presentation from './Pages/Presentation'
 import { 
-  BrowserRouter as Router,
+  HashRouter as Router,
   Switch,
   Route
 } from "react-router-dom";
