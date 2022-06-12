@@ -1,8 +1,9 @@
 .Header {
     display: flex;
     justify-content: flex-end;
-    margin-top: 1em;
-    margin-right: 1em;
+    align-items: center;
+    padding-top: 1em;
+    padding-right: 1em;
 }
 
 ul {
@@ -18,6 +19,14 @@ li {
 }
 
 li a {
-    color: gray;
+    color: grey;
     text-decoration: none;
+}
+
+li a:hover {
+    color: darkgrey;
+}
+
+.active {
+    color: pink;
 }

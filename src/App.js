@@ -4,6 +4,8 @@ import Header from './Header'
 import Fallback from './Fallback'
 import Dogs from './Pages/Dogs'
 import Presentation from './Pages/Presentation'
+import Plan from './Pages/Plan'
+import Litters from './Pages/Litters'
 import { 
   HashRouter as Router,
   Switch,
@@ -23,10 +25,10 @@ function App() {
             <Fallback />
           </Route>
           <Route path="/kullar">
-            <Fallback />
+            <Litters />
           </Route>
           <Route path="/planer">
-            <Fallback />
+            <Plan />
           </Route>
           <Route path="/presentation">
             <Presentation />

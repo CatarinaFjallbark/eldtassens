@@ -1,10 +1,11 @@
 .Footer {
   font-size: 1.5rem;
-  font-weight: 400;
   display: flex;
   justify-content: space-around;
   align-items: flex-end;
-  margin-bottom: 1em;
+  padding-bottom: 1em;
+  background: #323b41;
+  color: white;
 }
 
 .Footer a {

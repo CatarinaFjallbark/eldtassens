@@ -6,10 +6,10 @@
 
 .Content {
   background: url(assets/eldtassensdark.png) no-repeat center center;
-  -webkit-background-size: contain;
-  -moz-background-size: contain;
-  -o-background-size: contain;
-  background-size: contain;
+  -webkit-background-size: 40em;
+  -moz-background-size: 40em;
+  -o-background-size: 40em;
+  background-size: 40em;
   height: 100%;
 }
 
@@ -26,4 +26,10 @@ h1 {
 p {
   margin-bottom: 3em;
   text-align: justify;
+}
+
+img {
+  margin-bottom: 3em;
+  max-width: 100%;
+  height: auto;
 }
