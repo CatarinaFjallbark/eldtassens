@@ -23,6 +23,7 @@ Grundkurs i Agility på Lunds Brukshundsklubb 2020</p>
 
 <h3>Kullar</h3>
 <p>A-kullen födda sommaren 2021, tre tikar och två hanar.</p>
+<p>B-kullen födda sommaren 2022, fyra hanar och en tik.</p>
 
 <h3>Personlighet</h3>
 <p>Hon fungerar med alla hundar oavsett storlek, störiga valpar säger hon till om det behövs.
@@ -45,11 +46,15 @@ Pompes:<br />
 <p>Kurs Rallylydnad 2022 på Burlövs Brukshundsklubb</p>
 
 <h3>Utseende</h3>
-<p>Mindre feminin tik, viltfärgad. Härlig päls med en fantastisk svans som hon alltid håller upp så fint.
+<p>Mindre feminin tik, viltfärgad. Härlig päls med en fantastisk svans som hon alltid håller upp så fint.</p>
+<p>Utställd officiellt som junior och unghund med Excellent och fin kritik.</p>
 
-Utställd officiellt som junior och unghund med Excellent och fin kritik.
-Personlighet
-Mycket energi och vill alltid leka och busa, mycket snäll och gosig.</p>
+<h3>Kullar</h3>
+<p>C-kullen födda sommaren 2022, fyra hanar och en tik.</p>
+
+
+<h3>Personlighet</h3>
+<p>Mycket energi och vill alltid leka och busa, mycket snäll och gosig.</p>
 
 <hr />
 <h2>Worlds Wildest Golden Ginny (Pyra) <a href="https://hundar.skk.se/hunddata/Hund.aspx?hundid=3574714">SE70910/2021</a></h2>
