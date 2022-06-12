@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.606e24e9.css",
-    "main.js": "/static/js/main.f95bbddf.js",
+    "main.js": "/static/js/main.8c917833.js",
     "static/js/787.f8f3e844.chunk.js": "/static/js/787.f8f3e844.chunk.js",
     "static/media/askaAckoWeb.png": "/static/media/askaAckoWeb.e87360a3cf7149deb2c9.png",
     "static/media/gnistraLegoWeb.png": "/static/media/gnistraLegoWeb.651f4844808d47adc0ba.png",
     "static/media/eldtassensdark.png": "/static/media/eldtassensdark.f75a28ed8dd138776d2d.png",
     "index.html": "/index.html",
     "main.606e24e9.css.map": "/static/css/main.606e24e9.css.map",
-    "main.f95bbddf.js.map": "/static/js/main.f95bbddf.js.map",
+    "main.8c917833.js.map": "/static/js/main.8c917833.js.map",
     "787.f8f3e844.chunk.js.map": "/static/js/787.f8f3e844.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.606e24e9.css",
-    "static/js/main.f95bbddf.js"
+    "static/js/main.8c917833.js"
   ]
 }
