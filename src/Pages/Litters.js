@@ -7,7 +7,7 @@ const Litters = () => <div className="Container">
     <img src={require('../assets/gnistraLegoWeb.png')} alt='Gnistra kull'></img>
     <h1>C-kullen</h1>
     <h3>Födda 2022-06-05, leveransklara omkring månadsskiftet till Augusti</h3>
-    <p>4 hanar och 1 tik, seriösa intressenter är välkomna att maila. Samtliga svarta med ljusa tecken, stora härliga valpar, se Instagram för bilder.</p>
+    <p>4 hanar och 1 tik, seriösa intressenter är välkomna att maila. Två creme, två bruna, en svart, samtliga med ljusa tecken, se Instagram för bilder.</p>
     <img src={require('../assets/askaAckoWeb.png')} alt='Aska kull'></img>
 </div>
 
