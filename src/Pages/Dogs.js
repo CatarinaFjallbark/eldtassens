@@ -9,7 +9,7 @@ const Dogs = () => <div className="Container">
 <h3>Hälsa</h3>
 HD: A (A + A)<br />
 ED: ua 0 (0 + 0)<br />
-Ögonlysning: ua (2019-12)<br />
+Ögonlysning: ua (2024-01 & 2019-12)<br />
 Prcd-pra: carrier (B)<br />
 Pompes: free (A)<br />
 <br />
@@ -19,7 +19,7 @@ Pompes: free (A)<br />
 Grundkurs i Agility på Lunds Brukshundsklubb 2020</p>
 
 <h3>Utseende</h3>
-<p>Välvuxen tik på ca 17 kg. Svart med vita och bruna tecken. Härlig tjock päls som kunde varit längre. Utställd officiellt i öppen klass med VG och fin kritik.</p>
+<p>Välvuxen tik på drygt 19 kg. Svart med vita och bruna tecken. Härlig tjock päls som kunde varit längre. Utställd officiellt i öppen klass med VG och fin kritik.</p>
 
 <h3>Kullar</h3>
 <p>A-kullen födda sommaren 2021, tre tikar och två hanar.</p>
@@ -38,8 +38,8 @@ Hösten 2020 genomförde vi BPH utan skott.</p>
 HD: C<br />
 ED: ua 0 (0 + 0)<br />
 Ögonlysning: ua (2022-03)<br />
-Prcd-pra:<br />
-Pompes:<br />
+Prcd-pra: carrier (B)<br />
+Pompes: free (A)<br />
 <br />
 
 <h3>Träning</h3>
@@ -51,6 +51,7 @@ Pompes:<br />
 
 <h3>Kullar</h3>
 <p>C-kullen födda sommaren 2022, fyra hanar och en tik.</p>
+<p>Inga fler planerade kullar.</p>
 
 
 <h3>Personlighet</h3>
@@ -59,11 +60,49 @@ Pompes:<br />
 <hr />
 <h2>Worlds Wildest Golden Ginny (Pyra) <a href="https://hundar.skk.se/hunddata/Hund.aspx?hundid=3574714">SE70910/2021</a></h2>
 <p>Pyra har ett härligt lugn över sig för det mesta men blir väldigt busig och glad när det händer något kul, allting ska undersökas med munnen, leta stenar är favoritsysslan.</p>
+<h3>Hälsa</h3>
+HD: A/C<br />
+ED: ua 0 (0 + 0)<br />
+Ögonlysning: ej utförd än<br />
+Prcd-pra: <br />
+Pompes: <br />
+<br />
+
+<h3>Träning</h3>
+<p>Kurs Rallylydnad 2022 på Burlövs Brukshundsklubb</p>
+
+<h3>Utseende</h3>
+<p>Stilig slank hund som ställer upp sig fint.</p>
+
+<h3>Kullar</h3>
+<p>Eventuellt att kull planeras in 2024/2025 eller 2026.</p>
+
+
+<h3>Personlighet</h3>
+<p>Mycket energi och vill alltid leka och busa, mycket snäll och gosig inomhus, på promenader har hon svårt att ta det lugnt för allt är så roligt.</p>
+
 
 <h1>Hanar</h1>
 <hr />
 <h2>Tukki Karpo Albus (Marschall)</h2>
 <p>Väldigt härlig kille. Bor hos sin fodervärd i Lund.</p>
+<h3>Hälsa</h3>
+HD: D <br />
+ED: - <br />
+Ögonlysning: - <br />
+Prcd-pra: free (A)<br />
+Pompes: free (A)<br />
+<br />
+
+<h3>Utseende</h3>
+<p>Maskulin hund med mörk päls och något brunskimrande.</p>
+<p>Utställd officiellt som junior och unghund med Excellent och fin kritik. Vunnit sin klass varje tävling. </p>
+
+<h3>Kullar</h3>
+<p>Inga kullar kommer tas.</p>
+
+<h3>Personlighet</h3>
+<p>Härlig och glad kille.</p>
 
 </div>
   
